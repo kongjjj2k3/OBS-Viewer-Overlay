@@ -33,4 +33,5 @@
 
 4. **設定OBS Viewer Overlay網址：[http://127.0.0.1:8765/overlay](http://127.0.0.1:8765/overlay) , 並更新一下當前頁面快取.**
    
-   
+![OBS-Viewer-Overlay](pics/2.jpg)   
+![OBS-Viewer-Overlay](pics/1.jpg)   
