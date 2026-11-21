@@ -1,5 +1,4 @@
 <div align="center">
-<img src="pics/Logo.jpg" width="150" height="150" alt="Chat Overlay">
 
 <h1>OBS Viewer Overlay</h1>
 
@@ -16,4 +15,8 @@ An Android Transparent Youtube/Twitch/Kick Chat viewer app for IRL streaming.
 
 ---
 
-## Features
+---
+
+## 功能
+
+- ✔️ Twitch、Youtube、Kick 觀看人數顯示。
