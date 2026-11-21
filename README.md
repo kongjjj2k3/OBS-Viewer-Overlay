@@ -2,7 +2,7 @@
 
 <h1>OBS Viewer Overlay</h1>
 
-Overlay to display Twitch, Youtube, Kick live viewer count in OBS33.
+**Overlay to display Twitch, Youtube, Kick live viewer count in OBS33.*
 
 <br><br>
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
