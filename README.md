@@ -21,6 +21,7 @@
 
 - ✔️ Twitch、Youtube、Kick 觀看人數顯示。
 
+---
 
 ### 使用設定：
 1. 下載obs_viewer_overlay,新增到OBS腳本.
