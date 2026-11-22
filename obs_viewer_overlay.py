@@ -839,7 +839,7 @@ def script_properties():
 
 def script_defaults(settings):
     obs.obs_data_set_default_string(settings, "twitch_channel", "")
-    obs.obs_data_set_default_string(settings, "yt_channel", "UCXOBLGJdYA1mfhOrDwQESTg")
+    obs.obs_data_set_default_string(settings, "yt_channel", "")
     obs.obs_data_set_default_string(settings, "kick_channel", "")
     obs.obs_data_set_default_string(settings, "font_family", "'Microsoft JhengHei', 'Segoe UI', sans-serif")
     obs.obs_data_set_default_string(settings, "custom_font", "")
